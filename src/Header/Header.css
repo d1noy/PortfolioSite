@@ -1,0 +1,28 @@
+.header {
+    margin: 0 auto;
+    margin-bottom: 40px;
+    max-width: 940px;
+    border-bottom: 1px solid #828282;
+}
+
+.header__list{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.header__item a{ 
+    text-decoration: none;
+    color: #828282;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.header__item--active {
+    color: #070707;
+}
+

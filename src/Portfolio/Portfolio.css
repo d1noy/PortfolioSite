@@ -1,0 +1,21 @@
+.portfolio__block {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.portfolio__desc {
+    font-size: 18px;
+line-height: 22px;
+text-align: center;
+text-decoration-line: underline;
+margin-top: 45px;
+align-items: center;
+margin-bottom: 100px;
+}
+
+.portfolio___image {
+    max-width: 1000px;
+}

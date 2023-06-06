@@ -1,0 +1,12 @@
+textarea {
+    resize: none;
+    width: 100%;
+    min-height: 200px;
+}
+
+input {
+    border: none;
+    outline: none;
+    padding: 5px 15px;
+    /* background-color: green; */
+}

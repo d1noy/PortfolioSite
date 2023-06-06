@@ -1,0 +1,29 @@
+.skills__title {
+line-height: 42px;
+text-align: center;
+font-size: 34px;
+/* Black */
+color: #070707;
+}
+
+.skills__descr {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    /* Black */
+    color: #070707;
+    margin-bottom: 83px;
+}
+
+.icons__list {
+    margin-right: 63px;
+    margin: 0 auto;
+}
+
+
+.skills__icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
